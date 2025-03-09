@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist"
   },
-  "homepage": "https://irregular-luck.github.io/disk-scheduling-simulator",
+  "homepage": "https://irregular-luck.github.io/DiskScheduling",
 
   "dependencies": {
     "@tailwindcss/vite": "^4.0.12",
